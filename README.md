@@ -1,61 +1,59 @@
-# XOutOf10
+# OneMinus Notch
 
-[*Essential Phone's version is also available, ThisIsEssential is live!*](https://github.com/idoideas/ThisIsEssential)
+[*To get to the source code of the companion site, go to the WeWillNeverSettle project!*]()
 
-[![Get it in the Play Store](https://i.imgur.com/GcvRPKp.png)](https://play.google.com/store/apps/details?id=com.idoideas.xoutof10)
+[![Get it in the Play Store](https://i.imgur.com/GcvRPKp.png)](https://play.google.com/store/apps/details?id=com.idoideas.sometimessettle)
 
-You saw Apple September 2017 event. You probably heard about of Apple's last innvoation, iPhone X (TEN).
+You've probably heard about the new, innovative and "2018" OnePlus product. No, I'm not talking about the amazing new Wireless Buds, I'm talking about the new block that is destined to fall into your hand. The "OnePlus 6".
 
-You, the average Android user, probably had a laugh on Apple users about the new camera notch that covers the screen's content.
+If you tuned in to the live event, you've probably heard that Carl Pei said during the process of making this phone, they don't just go with trends and implement features based on necessity and customers feedback. Well, if we dared to believe that statement, you got let down a few minutes later, when they released the first full OnePlus 6 picture, containing, surprisingly, a notch.
 
-It is funny, I agree.
+OnePlus used to be a company that breaks barriers. Giving us great quality in great prices. Hears exactly what the users need. And lately, they slowly began to stop caring about the customers with OP5T shipping with Nougat and not having Treble, and I was personally let down when I realized my awesome OnePlus 3T won't have a major update beyond Oreo. 
 
-Your Apple fanboys probably said it's not that noticeable, and that you haven't tried it yourself.
+But the notch, the notch is where it crosses the lines. There is no need in such notch, There is no need to be all "apple-ish". I would rather to have a small bezel like the Samsung devices have. And as I figured out, I'm not the only one thinking this way. So I thought of a creative way to test OnePlus' loyalty to the customers for once and for all. 
 
-Well, you won't pay 999$ just to test it. And now, you don't need to!
+Introducing ***#WeWillNeverSettle*** campaign & ***OneMinus Notch*** app by Idoideas, a creative way to gain the power of the community for the main cause - to remove the notch on the next generation of OnePlus.
 
-Introducing ***XOutOf10*** *by Idoideas*, a simulation of iPhone X's notch for any Android device, so you could feel how it's like.
+## So how it works?
+
+This app includes a OnePlus 6 notch simulator, where when it's off you "never settle", but if you turn it on, you're like OnePlus nowadays, and "sometimes settle".
+
+On the campaign site, http://www.wewillneversettle.com/ , you can see a counter. This counter counts the sum of times people would've removed the notch if they could, as in enabled the notch simulator app then turned it off.
+
+This main site is a public petition to OnePlus, to show them that people don't want the notch.
+
+Now, you must be saying, "petitions usually don't solve problems in real life, and I won't bother to contribute to it". And because I really do care about this cause (and stopping the notch trend in general), I decided to make it interesting.
+
+You can see that the site has a leaderboard for the 5 top users with the most Notch Removals. The signed user that will have the most Notch Removals at the launch of the OnePlus 6T, will receive a ***6Teen dollars (16$) Amazon Gift Card right to his E-mail courtesy by Idoideas, no strings attached!***
+
+So go on and contribute to this great cause! And hopefully we could make OnePlus listen to its' customers additional one time.
 
 ## Download
 
-You can [download the latest APK right here](https://github.com/idoideas/XOutOf10/blob/master/XOutOf10.apk?raw=true), or [download the app directly from the Play Store](https://play.google.com/store/apps/details?id=com.idoideas.xoutof10).
+You can [download the latest APK right here](), or [download the app directly from the Play Store](https://play.google.com/store/apps/details?id=com.idoideas.sometimessettle).
 
-**Now supports all Android devices, all the way back to Ice Cream Sandwich 4.0!**
+**Supports all Android devices, all the way back to Ice Cream Sandwich 4.0!**
 
 **Android 6.0+ Users**: In your first run, please make sure you "permit drawing over apps".
 
-**Android 8.0 Oreo users:** Please note that the notch will be hidden when you expand your status bar. That occurs due to Android API limitations set by Google.
+**Android 8.0+ users:** Please note that the notch will be hidden when you expand your status bar. That occurs due to Android API limitations set by Google.
 
-## How to Enable
+## How to Start
 
-1. Download and Install the app..
-2. If it's your first time and you're running Android 6.0+ , click on the "Permit Drawing Over Apps" and allow it.
-3. Click on "Start".
-
-**Notice!** To stop the simulation, click on "Stop" within the app.
-
-## In the press
-
-* Unbox Therapy: [Get the iPhone X Notch On Any Phone...](https://youtu.be/wWBI1j9l7BY)
-* 9To5Google: [This Android app lets you 'embrace the notch' from the iPhone X on your phone](https://9to5google.com/2017/09/18/android-iphone-x-notch-simulator/)
-* Mashable: [This app lets you add an iPhone X 'notch' to any Android device](http://mashable.com/2017/09/18/iphone-x-notch-android-app/)
-* AndroidPolice: [[Notch-our Average Look] These two apps give your Android phone the $999 iPhone X blackout for free](http://www.androidpolice.com/2017/09/20/notch-average-look-two-apps-give-android-phone-999-iphone-x-blackout-free/)
-* TheNextWeb: [Bored programmer built an app that puts the iPhone X notch on any Android phone](https://thenextweb.com/apps/2017/09/18/iphone-x-notch-android-phone/)
-* Gizmodo: [This Free App Adds an iPhone X Notch to Your Android Phone](http://gizmodo.com/this-free-app-adds-an-iphone-x-notch-to-your-android-ph-1818540557)
-* Lad Bible: [Android Developer Trolls Apple By 'Copying' iPhone X Feature](http://www.ladbible.com/technology/technology-android-developer-trolls-apple-by-copying-iphone-x-feature-20170919?c=1505804334722)
+1. Download and Install the app.
+2. Sign up with a username and email to gain Notch Removals and join the leaderboard.
+3. Click on the switch to trigger the notch.
+4. Check the counter on http://www.wewillneversettle.com/ to see the magic happening.
 
 ## Screenshots
 
-Tested on OnePlus 3T, 2017.
+Tested on OnePlus 3T, 2018.
 
-![Portait Screenshot](https://i.imgur.com/Wq429gQ.jpg) ![Mi Mix Photo](https://i.imgur.com/rpkX50w.png)
-![Landscape Screenshot](https://i.imgur.com/MWXdVr1.jpg)
+<img src="https://i.imgur.com/268AUwy.png" width="270" height="480">
+<img src="https://i.imgur.com/CzioY6Q.jpg" width="480" height="270">
 
 ## Contact
 
+* Twitter: [@idoideas](http://twitter.com/idoideas)
 * Reddit: [/u/Idoideas](https://www.reddit.com/user/idoideas)
 * Email: Idoideasmail@gmail.com
-
-## Other Platforms
-
-* [Web Version by pfrankov](https://github.com/pfrankov/iphone-x-notch)
