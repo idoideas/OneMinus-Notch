@@ -1,6 +1,6 @@
 # OneMinus Notch
 
-[*To get to the source code of the companion site, go to the WeWillNeverSettle project!*]()
+[*To get to the source code of the companion site, go to the WeWillNeverSettle project!*](https://github.com/idoideas/WeWillNeverSettle)
 
 [![Get it in the Play Store](https://i.imgur.com/GcvRPKp.png)](https://play.google.com/store/apps/details?id=com.idoideas.sometimessettle)
 
