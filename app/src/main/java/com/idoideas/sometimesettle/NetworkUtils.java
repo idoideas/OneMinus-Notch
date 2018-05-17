@@ -24,7 +24,7 @@ import java.util.Map;
 public class NetworkUtils {
     public static void addNumberToServer(Context context, final String username){
         RequestQueue queue = Volley.newRequestQueue(context);
-        String url ="http://www.wewillneversettle.com/counterRequest";
+        String url ="http://www.wewillneversettle.com/";
 
         StringRequest stringRequest = new StringRequest(Request.Method.POST, url,
                 new Response.Listener<String>() {
@@ -41,7 +41,7 @@ public class NetworkUtils {
             @Override
             public Map<String, String> getHeaders() throws AuthFailureError {
                 Map<String, String>  params = new HashMap<String, String>();
-                params.put("seed", "confirmed");
+                params.put("seed", "");
                 return params;
             }
 
@@ -67,7 +67,7 @@ public class NetworkUtils {
 
     public static void addNewUserToDatabase(final Context context, final String username, final String email){
         RequestQueue queue = Volley.newRequestQueue(context);
-        String url ="http://www.wewillneversettle.com/newUserRequest";
+        String url ="http://www.wewillneversettle.com/";
 
         StringRequest stringRequest = new StringRequest(Request.Method.POST, url,
                 new Response.Listener<String>() {
@@ -91,7 +91,7 @@ public class NetworkUtils {
             @Override
             public Map<String, String> getHeaders() throws AuthFailureError {
                 Map<String, String>  params = new HashMap<String, String>();
-                params.put("seed", "confirmed");
+                params.put("seed", "");
                 return params;
             }
 

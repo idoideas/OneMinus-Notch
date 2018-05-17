@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">OneMinus Notch</string>
-    <string name="banner_home_footer">ca-app-pub-9851487072584209/8005095995</string>
-    <string name="interstitial_full_screen">ca-app-pub-9851487072584209/3024232054</string>
-    <string name="app_id">ca-app-pub-9851487072584209~8918243487</string>
-    <string name="test_device_id">101FA372AD43B36EEA6F2E8B98DF8243</string>
+    <string name="banner_home_footer"></string>
+    <string name="interstitial_full_screen"></string>
+    <string name="app_id"></string>
+    <string name="test_device_id"></string>
     <string name="welcome_message">OneMinus Notch is part of the\n#WeWillNeverSettle campaign,\nmade by Idoideas.\n\nIn order to gain Notch Removals\nand get a chance to win an Amazon gift card,\nSign Up Now!\n\nMore information is available on\nhttp://www.wewillneversettle.com/</string>
 </resources>
